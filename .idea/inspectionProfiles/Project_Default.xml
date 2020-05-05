@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="ConfusingMainMethod" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ImplicitNumericConversion" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoreWideningConversions" value="false" />
+      <option name="ignoreCharConversions" value="false" />
+      <option name="ignoreConstantConversions" value="false" />
+    </inspection_tool>
+    <inspection_tool class="PointlessNullCheck" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="StringBufferField" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="StringEqualsEmptyString" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnnecessaryToStringCall" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
